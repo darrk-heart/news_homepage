@@ -14,6 +14,10 @@ body {
   padding: 10px;
   margin-left: 10px;
 }
+.header-item:hover{
+  cursor: pointer;
+  color:rgb(255, 190, 0);
+}
 .header {
   display: flex;
   justify-content: space-between;
@@ -95,6 +99,10 @@ body {
   padding-top: 0px;
   font-size: 20px;
 }
+.side-body-content h2:hover{
+  cursor: pointer;
+  color:rgb(255, 190, 0);
+}
 .side-body-content p {
   font-size: 14px;
   border-bottom: 1px solid rgba(204, 204, 204, 0.5);
@@ -131,6 +139,10 @@ body {
   margin: 0;
   padding: 5px;
 }
+.second-body h2:hover{
+  cursor: pointer;
+  color:#df4516;
+}
 .last {
   padding: 10px;
 }
@@ -138,4 +150,8 @@ body {
   font-size: 13px;
   margin: 0;
   padding: 5px;
+}
+.readmore:hover{
+  background-color: black;
+  cursor: pointer;
 }
