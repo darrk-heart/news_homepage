@@ -100,3 +100,12 @@ body {
   border-bottom: 1px solid rgba(204, 204, 204, 0.5);
   padding-bottom: 40px;
 }
+.first-one{
+    display: flex;
+}
+.second-one{
+    display: flex;
+}
+.third-one{
+    display: flex;
+}
